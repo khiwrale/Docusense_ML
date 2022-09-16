@@ -1,0 +1,33 @@
+===================Metadata of File 0===================
+Document: C:/Users/tonum/OneDrive/Desktop/Codes/Images_to_PDF/Sample_PDF_data\Get_Started_With_Smallpdf.pdf
+/CreationDate:D:20201014170810+02'00'
+/Creator:Adobe InDesign 15.1 (Macintosh)
+/ModDate:D:20201014170810+02'00'
+/Producer:Adobe PDF Library 15.0
+/Trapped:/False
+===================Metadata of File 1===================
+Document: C:/Users/tonum/OneDrive/Desktop/Codes/Images_to_PDF/Sample_PDF_data\sample.pdf
+/Producer:PyPDF2
+/NeedAppearances:<PyPDF2.generic.BooleanObject object at 0x0000026B96341820>
+===================Metadata of File 2===================
+Document: C:/Users/tonum/OneDrive/Desktop/Codes/Images_to_PDF/Sample_PDF_data\sample1.pdf
+/CreationDate:D:20161222114355-05'00'
+/Creator:Adobe InDesign CC 2015 (Macintosh)
+/ModDate:D:20161229154720-05'00'
+/Producer:Adobe PDF Library 15.0
+/Trapped:/False
+===================Metadata of File 3===================
+Document: C:/Users/tonum/OneDrive/Desktop/Codes/Images_to_PDF/Sample_PDF_data\sample2.pdf
+/Title:PDF Form Example
+/Keywords:PDF Form
+/Creator:Writer
+/Producer:OpenOffice.org 3.4
+/CreationDate:D:20130629204853+02'00'
+===================Metadata of File 4===================
+Document: C:/Users/tonum/OneDrive/Desktop/Codes/Images_to_PDF/Sample_PDF_data\sample3.pdf
+/Title:Sample #1
+/Author:Ian Mitchell
+/Creator:Microsoft® Office Word 2007
+/CreationDate:D:20120521123316+01'00'
+/ModDate:D:20120521123316+01'00'
+/Producer:Microsoft® Office Word 2007
